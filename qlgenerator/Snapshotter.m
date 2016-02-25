@@ -11,7 +11,7 @@
 #include <libswscale/swscale.h>
 
 
-static const int kPositionSeconds = 60; // Completely arbitrary. CoreMedia generator appears to use 10s
+static const int kPositionSeconds = 180; // Completely arbitrary. CoreMedia generator appears to use 10s
 
 @implementation Snapshotter
 
